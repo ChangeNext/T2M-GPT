@@ -1,0 +1,9 @@
+checkpoints/
+dataset/
+glove/
+output_GPT_Final/
+output_vqfinal/
+test_9layer/
+test_12layer/
+test_gt/
+ViT-B-32.pt
